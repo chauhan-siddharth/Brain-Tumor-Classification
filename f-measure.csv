@@ -1,0 +1,3 @@
+k-Nearest Neighbour,Random Forest,Artificial Neural Networks,Test Options
+0.812,0.888,0.812,Cross Validation
+0.783,0.886,0.71,Percent Split
